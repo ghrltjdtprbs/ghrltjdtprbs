@@ -1,4 +1,4 @@
-### Hi there 👋
+### 잔디먹는 뱀🐍
 
 <!--
 **ghrltjdtprbs/ghrltjdtprbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
