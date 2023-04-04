@@ -1,4 +1,4 @@
-### 잔디먹는 뱀🐍
+### Hyemi😾
 
 <!--
 **ghrltjdtprbs/ghrltjdtprbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
