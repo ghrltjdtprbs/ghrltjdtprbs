@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![snake gif](https://github.com/ghrltjdtprbs/ghrltjdtprbs/blob/output/github-contribution-grid-snake.svg)
-<Chart src="https://ghchart.rshah.org/33333/ghrltjdtprbs" />
+
