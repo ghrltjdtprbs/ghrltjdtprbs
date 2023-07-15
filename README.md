@@ -1,4 +1,4 @@
-### hym ![fast_meow_party](https://github.com/ghrltjdtprbs/ghrltjdtprbs/assets/105612931/d16db52f-4d45-480d-910d-bd0abbc099a9)
+###🦒 hym 🦒
 
 
 <!--
